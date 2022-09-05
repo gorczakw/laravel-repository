@@ -1,0 +1,18 @@
+{
+    "name": "gorczakw/laravel-repository",
+    "description": "Repository concept for Laravel framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gorczakw\\LaravelRepository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wojciech Gorczak",
+            "email": "gorczak.w@gmail.com"
+        }
+    ],
+    "require": {}
+}
