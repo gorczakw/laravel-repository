@@ -14,5 +14,8 @@
             "email": "gorczak.w@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0",
+        "illuminate/database": ">=8.0"
+    }
 }
